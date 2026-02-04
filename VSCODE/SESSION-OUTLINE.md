@@ -1,16 +1,15 @@
 # VS Code Power Hour - Session Outline
 
-**Date:** Wednesday, February 4th, 2026
-**Time:** 1:00 PM - 2:00 PM
-**Facilitator:** Taylor
-**Participant:** Nate
+**Time:** 1:00 PM - 2:00 PM (60 minutes)
+**Facilitator:** [Your Name]
+**Participant:** [Intern Name]
 **Level:** Beginner Foundation
 
 ---
 
 ## Session Goals
 
-By the end of this hour, Nate will:
+By the end of this hour, the participant will:
 1. Understand VS Code as an agentic coding environment
 2. Have a working setup with AI assistants configured
 3. Know essential shortcuts and workflows
@@ -21,9 +20,9 @@ By the end of this hour, Nate will:
 
 ## Pre-Session Checklist (5 mins before)
 
-- [ ] Nate has VS Code installed
+- [ ] Participant has VS Code installed
 - [ ] Screen sharing setup and tested
-- [ ] This repository cloned to Nate's machine
+- [ ] This repository cloned to participant's machine
 - [ ] Recording started (for reference)
 
 ---
@@ -329,7 +328,7 @@ MCP (Model Context Protocol) gives AI agents superpowers:
 - [ ] Know how to prompt AI effectively
 - [ ] Comfortable with terminal & git
 
-#### Immediate Action Items for Nate
+#### Immediate Action Items
 
 **Today:**
 1. Review [KEYBOARD-SHORTCUTS.md](KEYBOARD-SHORTCUTS.md)
@@ -365,7 +364,7 @@ Open floor for any questions or topics to revisit.
 ## Facilitator Notes
 
 ### Timing Tips
-- Stay flexible - adjust based on Nate's pace
+- Stay flexible - adjust based on participant's pace
 - Skip MCP section if running late
 - Prioritize hands-on over theory
 - Use exercises to reinforce learning
@@ -426,7 +425,7 @@ Open floor for any questions or topics to revisit.
 
 ## Success Metrics
 
-Nate should be able to:
+The participant should be able to:
 - [ ] Open files quickly with Cmd/Ctrl + P
 - [ ] Use Command Palette for any action
 - [ ] Chat with AI assistant to solve problems
@@ -436,4 +435,4 @@ Nate should be able to:
 
 ---
 
-**Remember:** This is a foundation. The goal is confidence, not mastery. Nate will learn more by doing than by watching. Keep it interactive!
+**Remember:** This is a foundation. The goal is confidence, not mastery. Learning happens through doing, not just watching. Keep it interactive!

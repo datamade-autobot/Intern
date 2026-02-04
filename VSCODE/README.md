@@ -1,5 +1,4 @@
 # VS Code Power Hour: Agentic IDE Foundations
-## Training Session for Nate | February 4, 2025
 
 Welcome to your VS Code deep dive! This repository contains everything you need to transform VS Code from a text editor into a powerful agentic development environment.
 
@@ -183,4 +182,4 @@ During the session, don't hesitate to ask! After the session:
 - Try modifying CLAUDE.md and see how behavior changes
 - Join the Claude Code community for tips and tricks
 
-**Happy coding, Nate!** 🚀
+**Happy coding!** 🚀
