@@ -1,0 +1,48 @@
+# Cursor Rules Template
+# Copy this to your project root as .cursorrules
+
+## Project Context
+[Brief description of what this project is]
+
+## Stack
+- [Language/Runtime and version]
+- [Framework]
+- [Database]
+- [Key libraries]
+
+## Code Style
+- [Formatting: tabs/spaces, semicolons, etc.]
+- [Naming conventions]
+- [Preferred patterns]
+- [Things to avoid]
+
+## Architecture
+- [High-level structure]
+- [Key design decisions]
+- [Patterns to follow]
+
+## Testing
+- [Testing framework]
+- [Coverage requirements]
+- [Test location and naming]
+
+## Commands
+- Build: `[command]`
+- Test: `[command]`
+- Run: `[command]`
+- Lint: `[command]`
+
+## Important Constraints
+- [Security considerations]
+- [Performance requirements]
+- [Compatibility requirements]
+- [Known issues or workarounds]
+
+## Common Gotchas
+- [Gotcha 1 and how to handle it]
+- [Gotcha 2 and how to handle it]
+
+## Resources
+- [Documentation links]
+- [Style guides]
+- [Architecture diagrams]
