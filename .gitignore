@@ -1,0 +1,36 @@
+# Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
+
+# Personal/Private Files - Keep PII out of public repo
+*.docx
+*meeting*.md
+roadmap.md
+
+# Claude Code local configuration
+.claude/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+.env.*.local
+
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+.pytest_cache/
+venv/
+env/
+
+# IDE (optional - uncomment if needed)
+# .vscode/
+# .idea/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
